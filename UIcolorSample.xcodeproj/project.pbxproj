@@ -13,6 +13,7 @@
 		FFC776B71B9F26A600109ECC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFC776B61B9F26A600109ECC /* Images.xcassets */; };
 		FFC776BA1B9F26A600109ECC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFC776B81B9F26A600109ECC /* LaunchScreen.xib */; };
 		FFC776C61B9F26A600109ECC /* UIcolorSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC776C51B9F26A600109ECC /* UIcolorSampleTests.swift */; };
+		FFC776D01BA1BEAF00109ECC /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC776CF1BA1BEAF00109ECC /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		FFC776BF1B9F26A600109ECC /* UIcolorSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIcolorSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFC776C41B9F26A600109ECC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FFC776C51B9F26A600109ECC /* UIcolorSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIcolorSampleTests.swift; sourceTree = "<group>"; };
+		FFC776CF1BA1BEAF00109ECC /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				FFC776AF1B9F26A600109ECC /* AppDelegate.swift */,
+				FFC776CF1BA1BEAF00109ECC /* Extension.swift */,
 				FFC776B11B9F26A600109ECC /* ViewController.swift */,
 				FFC776B31B9F26A600109ECC /* Main.storyboard */,
 				FFC776B61B9F26A600109ECC /* Images.xcassets */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFC776D01BA1BEAF00109ECC /* Extension.swift in Sources */,
 				FFC776B21B9F26A600109ECC /* ViewController.swift in Sources */,
 				FFC776B01B9F26A600109ECC /* AppDelegate.swift in Sources */,
 			);
@@ -409,6 +413,7 @@
 				FFC776CB1B9F26A600109ECC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FFC776CC1B9F26A600109ECC /* Build configuration list for PBXNativeTarget "UIcolorSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				FFC776CE1B9F26A600109ECC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

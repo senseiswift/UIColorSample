@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FA2B9C98-9052-428D-9126-C181CF298E2C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIcolorSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2CCA2FC25749C0BA502189BB22C840A2BBA78D3A</key>
+		<string>https://github.com/senseiswift/UIColorSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIcolorSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2CCA2FC25749C0BA502189BB22C840A2BBA78D3A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/senseiswift/UIColorSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2CCA2FC25749C0BA502189BB22C840A2BBA78D3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2CCA2FC25749C0BA502189BB22C840A2BBA78D3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIColorSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
